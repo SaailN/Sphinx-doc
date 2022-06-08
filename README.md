@@ -6,7 +6,9 @@ Clone the repo
 
 For documentation we are going to use sphinx and will be using .md format: 
 ```pip3 install sphinx```
+
 ```pip3 install recommonmark```
+
 ```pip3 install sphinx_rtd_theme```
 
 
